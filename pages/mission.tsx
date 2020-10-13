@@ -9,16 +9,15 @@ function Mission() {
                 </div>
 
                 <div className="header-and-content text-center  mb-4">
-                <h3 className="text-3xl font-semibold">Coolhaus</h3>
-                <p className="text-base">Awesome Ice Cream</p>     
-
+                    <h3 className="text-3xl font-semibold">Coolhaus</h3>
+                    <p className="text-base">Awesome Ice Cream</p>     
                 </div>
 
                 <div className="purple-div flex justify-center items-center rounded-xl w-1/4 tracking-wide m-6 font-semibold">
                     <a href="#">
-                    <p className="text-base">You Have 500 pts</p>
-                    <p className="text-sm">Click here to redeem</p>
-                     </a>
+                        <p className="text-base">You Have 500 pts</p>
+                        <p className="text-sm">Click here to redeem</p>
+                    </a>
                 </div>
 
                 <div className="instagram-div rounded-xl w-1/4 tracking-wide block">
@@ -33,11 +32,10 @@ function Mission() {
                             </div>  
                         </div>
                     </a>
-
-                </div>
                 </div>
 
             </div>
+        </div>
     );
 
 }
