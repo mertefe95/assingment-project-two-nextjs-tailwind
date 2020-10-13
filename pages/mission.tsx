@@ -18,7 +18,7 @@ function Mission() {
                     <a href="#">
                     <p className="text-base">You Have 500 pts</p>
                     <p className="text-sm">Click here to redeem</p>
-                    </a>
+                     </a>
                 </div>
 
                 <div className="instagram-div rounded-xl w-1/4 tracking-wide">
@@ -31,7 +31,7 @@ function Mission() {
                             <div className="instagram-inner-right-content">
                                 <p className="instagram-inner-right-p">Upload a photo to Instagram and tag us @coolhaus and hashtag #icecreamrules</p>
 
-                            </div> 
+                            </div>  
                         </div>
                     </a>
 
