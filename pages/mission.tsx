@@ -31,7 +31,7 @@ function Mission() {
                             <div className="instagram-inner-right-content">
                                 <p className="instagram-inner-right-p">Upload a photo to Instagram and tag us @coolhaus and hashtag #icecreamrules</p>
 
-                            </div>
+                            </div> 
                         </div>
                     </a>
 
