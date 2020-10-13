@@ -43,9 +43,18 @@
     width: 80%;
 }
 
+.instagram-main-inner-content  {
+    height: 86px;
+}
+
+
 .instagram-inner-left-content {
     height: 70px;
     width: 70px;
-    font-weight: bolder;
     margin-right: 18px;
+}
+
+.instagram-inner-right-p {
+    font-size: 17px;
+    line-height: 1.59;
 }

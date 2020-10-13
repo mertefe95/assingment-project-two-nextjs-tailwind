@@ -3,12 +3,12 @@ function Mission() {
     return (
         <div className="body h-screen">           
             
-            <div className="main-div pt-48 flex justify-center items-center flex-col">
+            <div className="main-div pt-24 flex justify-center items-center flex-col">
                 <div className="logo text-center mb-4">
                     <img className="logo-image rounded-full w-full h-full" src="../images/logo.png" />
                 </div>
 
-                <div className="header-and-content text-center">
+                <div className="header-and-content text-center  mb-4">
                 <h3 className="text-3xl font-semibold">Coolhaus</h3>
                 <p className="text-base">Awesome Ice Cream</p>     
 
@@ -21,16 +21,15 @@ function Mission() {
                      </a>
                 </div>
 
-                <div className="instagram-div rounded-xl w-1/4 tracking-wide">
+                <div className="instagram-div rounded-xl w-1/4 tracking-wide block">
                     <a href="#">
-                        <div className="instagram-main-inner-content">
-                            <div className="instagram-inner-left-content text-sm rounded p-5 overflow-hidden leading-normal">
+                        <div className="instagram-main-inner-content flex p-7 flex-row items-center justify-start tracking-wide">
+                            <div className="instagram-inner-left-content flex items-center flex-row justify-start text-sm rounded p-5 overflow-hidden leading-normal font-black">
                                 500 pts
                             </div>
 
-                            <div className="instagram-inner-right-content">
-                                <p className="instagram-inner-right-p">Upload a photo to Instagram and tag us @coolhaus and hashtag #icecreamrules</p>
-
+                            <div className="instagram-inner-right-content h-full flex flex-col  pl-4 justify-center">
+                                <p className="instagram-inner-right-p font-semibold m-0">Upload a photo to Instagram and tag us @coolhaus and hashtag #icecreamrules</p>
                             </div>  
                         </div>
                     </a>
