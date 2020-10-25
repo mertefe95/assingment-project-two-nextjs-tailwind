@@ -5,7 +5,7 @@ function Mission() {
             
             <div className="main-div pt-24 flex justify-center items-center flex-col">
                 <div className="logo text-center mb-4">
-                    <img className="logo-image rounded-full w-full h-full" src="../images/logo.png" />
+                    <img className="logo-image rounded-full w-full h-full" src="./images/logo.png" />
                 </div>
 
                 <div className="header-and-content text-center  mb-4">
